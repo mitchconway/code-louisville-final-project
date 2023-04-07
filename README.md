@@ -1,6 +1,6 @@
 # code-louisville-final-project
 final project
-Required Packages: Pandas (import pandas as pd), matplotlib (import matplotlib.pyplot as plt), and numpy(import numpy as np)
+Required Packages: Pandas , matplotlib , and numpy
 For my final project I wanted to imagine filling the craters of the moon with food items and determining how many calories were in each crater.  I just thought it was interesting.  First I found two data sources from Kaggle.  One that contained data about the internal volume of the moon craters, and another that contained data about caloric values of food.  I realized that my files contained a lot of data so then I decided to just use the top ten volume from the crater file and the top ten calorie values from the food file.  I was able to graph the top ten from each file to visualize them.  In a later course, if I were to continue this project, I would add visualizations for the calorie value of the craters, but I feel like that is more advanced than where I am at currently.
 #Feature 1
 Write markdown cells in Jupyter explaining your thought process and code. If you make a few plots with matplotlib, explain what the reader is seeing and why you chose to plot things that way.
